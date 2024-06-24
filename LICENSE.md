@@ -14,7 +14,7 @@ If you use the Content in any media, including but not limited to videos, photos
 You may not redistribute, sell, rent, lease, or share the Content without the express written permission of the Creator.
 
 ## Extended Redistribution Rights: 
-If the Creator has not updated the project in over 1.5 years, you are permitted to redistribute the Content provided you give clear and visible credit to the Creator and include a link to the original project.
+If the Creator has not updated the project in over 1.5 years and has declared the project as "discontinued", you are permitted to redistribute the Content provided you give clear and visible credit to the Creator and include a link to the original project.
 
 ## Fair Use
 You may have "fair use" rights for the software under the law. These terms do not limit them.
