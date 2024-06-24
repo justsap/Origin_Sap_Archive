@@ -1,0 +1,14 @@
+{
+    "type": "origins:burn",
+    "interval": 20,
+    "burn_duration": 10,
+    "condition": {
+        "type": "origins:biome",
+        "condition": {
+            "type": "origins:in_tag",
+            "tag": "lonetree:hots"
+        }
+    },
+    "name": "Burnable",
+    "description": "You can't survive hot biomes and fire deals more damage"
+}

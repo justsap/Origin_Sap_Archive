@@ -1,0 +1,22 @@
+{
+	"powers": [
+		"lonetree:poisonivy",
+		"lonetree:exp",
+		"lonetree:sunlight",
+		"lonetree:leaves",
+		"lonetree:nofood",
+		"lonetree:waterfood",
+		"lonetree:scorch",
+		"lonetree:scorch2",
+		"lonetree:shieldless",
+	"lonetree:shadows",
+	"lonetree:speedleaf",
+	"lonetree:immune",
+	"lonetree:particles"
+	],
+	"icon": "minecraft:flowering_azalea_leaves",
+	"order": 3,
+	"impact": 3,
+	"name": "Sapling",
+	"description":"Born from the soul condensing powers of a special tree."
+}
