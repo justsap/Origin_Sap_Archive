@@ -1,9 +1,6 @@
 Datapack Created by JustSap!
 
-Socials:
-https://www.youtube.com/@JustSaps
-
-@justsap_ on Twitter & Instagram
+CONTENT AGREEMENT: https://github.com/justsap/Sapling-Origin/blob/main/LICENSE.md
 
 -----------------------------------
 Information:
@@ -20,10 +17,19 @@ Information:
 
 	+ Burnable: You can't handle hot biomes and fire deals more damage to you
 
+	+ Childhood Biome: Your first spawn is always a forest biome
+
 	+ No Shields
 
 -----------------------------------
 
-Please Credit Me (justsap) whenever you're showcasing or redistributing the mod!
+Official Links (as of June 2024)
+Modrinth: https://modrinth.com/datapack/origin-sapling
+Github: https://github.com/justsap/Sapling-Origin/tree/main
+
+Socials:
+https://www.youtube.com/@JustSaps
+
+@justsap_ on Twitter & Instagram
 
 DO NOT REMOVE THIS TEXT FILE FROM PACK!
